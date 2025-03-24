@@ -1,0 +1,19 @@
+privyt/
+│── docs/
+│   ├── architecture-diagram.png  # System architecture visualization
+│   ├── smart-contracts-overview.md  # Explanation of on-chain components
+│   ├── security-measures.md  # Security layers & encryption methods
+│── contracts/
+│   ├── PrivytWallet.sol  # Smart contract for wallet interactions (placeholder)
+│   ├── ExportableWallet.sol  # Smart contract for exportable wallets (placeholder)
+│── frontend/
+│   ├── src/
+│   │   ├── components/  # UI components
+│   │   ├── pages/  # Login, onboarding, transactions pages
+│── backend/
+│   ├── services/  # API services for user authentication, wallet integration
+│── README.md
+│── ROADMAP.md
+│── LICENSE
+│── CONTRIBUTING.md
+│── .gitignore
